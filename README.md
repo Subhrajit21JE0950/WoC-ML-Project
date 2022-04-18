@@ -5,7 +5,7 @@ This is the report about my findings regarding the project:
 increasing learning rate makes the cost function minimise rapidly but after a certain point it oscillates. Whereas lower learning rate makes the cost function minimise
 very slowly. The correct combination is found by hit and trial method. I have also used standardization on the training data. The cost function is 2522.
 
-<img src= "https://prnt.sc/-DTDNKjNKacq" width="250" height="250" />
+<img src= "https://user-images.githubusercontent.com/103888763/163831801-cf83323f-d233-43ba-a1a2-7884da5659f4.png" width="250" height="250" />
 
 
 
