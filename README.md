@@ -9,7 +9,7 @@ increasing learning rate makes the cost function minimise rapidly but after a ce
 very slowly. The correct combination is found by hit and trial method. I have also used standardization on the training data. The cost function is 2522.
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/103888763/163831801-cf83323f-d233-43ba-a1a2-7884da5659f4.png" width="250" height="250" align="center" />
-Cost function VS Number of iterations
+<br>Cost function VS Number of iterations
 </p>
 
 
