@@ -1,6 +1,6 @@
 <strong>ML Project IIT(ISM) DHANBAD
 
-Report  :  
+Report :  
 
 This is the report about my findings regarding the project:<br>
 </strong>
