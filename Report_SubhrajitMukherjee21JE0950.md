@@ -2,8 +2,9 @@
 
 Report  :  
 
-This is the report about my findings regarding the project:
+This is the report about my findings regarding the project:<br>
 </strong>
+
 •	Linear Regression uses gradient descent method to continuously update parameters. The hyperparameters are learning rate and number of iterations. I have found that
 increasing learning rate makes the cost function minimise rapidly but after a certain point it oscillates. Whereas lower learning rate makes the cost function minimise
 very slowly. The correct combination is found by hit and trial method. I have also used standardization on the training data. The cost function is 2522.
@@ -33,9 +34,9 @@ two degree polynomial for which the cost function is the least. I have also used
 •	In two layer neural network , first we did forward propagation or activation of the input and hidden layers. Then we calculated mean squared error. Then we implemented backward propagation which is a mathematical use of weights of one layer to calculate weights of previous layer. Since this is a multiclass problem I have used softmax activation function which is used to normalize them. The accuracy is 86 percent.
 
 <strong>
-By Subhrajit Mukherjee
-Admission number- 21JE0950
-Section -H
-Ml group-7
+By Subhrajit Mukherjee<br>
+Admission number- 21JE0950<br>
+Section -H<br>
+Ml group-7<br>
 </strong>
 
